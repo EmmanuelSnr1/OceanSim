@@ -10,7 +10,7 @@ import java.awt.*;
 
 /**
  *
- * @author Junaid
+ * @author Emmanuel
  */
 public class GraphicsController {
     private JFrame frame;

@@ -10,7 +10,7 @@ import javax.swing.border.*;
 /**
  * Creates a JLabel and JTextArea coupled together
  *
- * @author Maria Chli
+ * @author Emmanuel
  * @version 18/10/2006
  */
 

@@ -7,7 +7,7 @@ package Ocean;
 
 /**
  *
- * @author Victoria
+ * @author Emmanuel
  */
 public abstract class Fish extends Creature {
     protected int nutrition;

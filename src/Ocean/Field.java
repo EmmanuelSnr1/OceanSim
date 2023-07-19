@@ -9,7 +9,7 @@ import java.util.Random;
  * Represent a rectangular grid of field positions.
  * Each position is able to store a single creature.
  * 
- * @author David J. Barnes and Michael Kolling
+ * @author Emmanuel
  * @author Maria Chli
  * @version 18-Oct-2006
  */
